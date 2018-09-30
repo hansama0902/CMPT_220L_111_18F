@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class pro_8 {
 
 
-
+	   // JA: You were supposed to sort the array.
 	   public static void main(String args[])
 	   {
 	       int small, size, i;
