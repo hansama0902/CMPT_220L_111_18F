@@ -30,6 +30,7 @@ public class pro_3 {
 	{
 	int flag = 1;
 	String S_reversed = reverse(S);
+	// JA: You can compared the complete word using equals()
 	for(int i=0 ; i<S.length(); i++)
 	{
 	if(S.charAt(i) != S_reversed.charAt(i))
