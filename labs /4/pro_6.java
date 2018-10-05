@@ -7,7 +7,7 @@ public class pro_6 {
 
 		// The end of the list is represented by the value -1
 
-		int a[]={-1};
+		int a[]={-1}; // JA: You should use int[] a = {-1} instead
 
 		// Insert numbers 1 through 10 (in that order) into the array
 

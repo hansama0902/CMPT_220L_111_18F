@@ -4,6 +4,7 @@ import java.util.Random;
 public class pro_5 {
 
 	
+	    // JA: You had to calculate the average and the number of values larger and lower than the average
 	    public static void main(String[] input)
 	    {
 	        int len, i, randnum;
