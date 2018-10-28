@@ -1,6 +1,6 @@
 package Lab7;
 
-
+// JA: You had to use the StackOfIntegers class
 
 import java.util.Scanner;
 
